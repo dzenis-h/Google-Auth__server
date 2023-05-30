@@ -4,7 +4,7 @@
   "main": "index.js",
   "author": {
     "name": "Dzenis H.",
-    "url": "https://dzenis-h.com",
+    "url": "https://dzenis.tech",
     "scripts": {
       "start": "node index.js",
       "server": "nodemon index.js",
