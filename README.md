@@ -229,9 +229,14 @@ git clone https://github.com/dzenis-h/Google-Auth__server
 cd Google-Auth__server
 ```
 
-3. Install the dependencies:
+3. Install the `server-side` dependencies:
 ```sh
 npm install
+```
+
+4. Install the `client-side` dependencies:
+```sh
+cd client && npm install
 ```
 
 ### 🤖 Using Google-Auth__server
