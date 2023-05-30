@@ -216,6 +216,7 @@ repo
 
 Before you begin, ensure that you have the following prerequisites installed:
 > `Make sure you have the latest NodeJS runtime installed`
+
 > `You'll need to have NPM installed (it comes with NodeJS)`
 
 ### 💻 Installation
@@ -246,8 +247,8 @@ node app.js
 
 ## 🛠 Future Development
 - [X] [📌  CREATE-A-README-FILE]
-- [ ] [📌  UPDATE-DEPENDENCIES]
 - [ ] [📌  ADD-SUMMARY-SECTION]
+- [ ] [📌  UPDATE-DEPENDENCIES]
 
 
 ---
@@ -277,7 +278,7 @@ The project maintainers will review your changes and provide feedback or merge t
 
 ## 🪪 License
 
-This project is licensed under the `[MIT]` license. See the [LICENSE](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing) file for additional info.
+This project is licensed under the `MIT` license. See the [LICENSE](https://docs.google.com/document/d/11WK7tVoTFRMcWCuGZQCRWxEsDUEJ_6ArtfV-NjWcBCU/edit?usp=sharing) file for additional info.
 
 ---
 
