@@ -26,13 +26,12 @@ Google-Auth__server
 - [📚 Table of Contents](#-table-of-contents)
 - [📍Overview](#-introdcution)
 - [🔮 Features](#-features)
-- [⚙️ Project Structure](#project-structure)
-- [🧩 Modules](#modules)
+- [⚙️ Project Structure](#-project-structure)
+- [🧩 Modules](#-modules)
 - [🏎💨 Getting Started](#-getting-started)
 - [🗺 Roadmap](#-roadmap)
 - [🤝 Contributing](#-contributing)
 - [🪪 License](#-license)
-- [📫 Contact](#-contact)
 - [🙏 Acknowledgments](#-acknowledgments)
 
 ---
