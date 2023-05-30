@@ -240,9 +240,10 @@ cd client && npm install
 ```
 
 ### 🤖 Using Google-Auth__server
+##### This will start the client and the server at the same time √
 
 ```sh
-node app.js
+npm run dev
 ```
 
 <hr />
